@@ -1,0 +1,51 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/smoking-status-nonsmoker---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-status-stopping---primary.py
+inputModule4:
+  class: File
+  path: python/smoking-status-consumption---primary.py
+inputModule5:
+  class: File
+  path: python/unknown-smoking-status---primary.py
+inputModule6:
+  class: File
+  path: python/smoking-status-trying---primary.py
+inputModule7:
+  class: File
+  path: python/passive-smoking-status---primary.py
+inputModule8:
+  class: File
+  path: python/smoking-status-stopped---primary.py
+inputModule9:
+  class: File
+  path: python/smoking-status-restarted---primary.py
+inputModule10:
+  class: File
+  path: python/smoking-status---primary.py
+inputModule11:
+  class: File
+  path: python/smoking-status-tobacco---primary.py
+inputModule12:
+  class: File
+  path: python/smoking-status-cigar---primary.py
+inputModule13:
+  class: File
+  path: python/smoking-status-smoker---primary.py
+inputModule14:
+  class: File
+  path: python/smoking-status-cessation---primary.py
+inputModule15:
+  class: File
+  path: python/smoking-status-review---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
